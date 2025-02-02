@@ -1,7 +1,7 @@
 {
   "html": {
     "snippets": {
-      "img": "img[class src alt width height loading='lazy']",
+      "img": "img[class src alt width height loading='lazy']/",
       "button": "button[type='button']"
     }
   }
