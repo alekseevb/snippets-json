@@ -2,8 +2,10 @@
   "html": {
     "snippets": {
       "img": "img[class alt src width height loading='lazy']/",
-      "button": "button[type='button']",
-      "video": "video[src poster width height]"
+      "button": "button[class type='button']",
+      "video": "video[src poster width height]",
+      "input": "input[class type='text']",
+      "label": "label[class for]"
     }
   }
 }
