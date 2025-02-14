@@ -6,7 +6,7 @@
       "video": "video[src poster width height]",
       "input": "input[class type='text']/",
       "label": "label[class for]",
-      "a": "a[class href]"
+      "a": "a[class href='#']"
     }
   }
 }
