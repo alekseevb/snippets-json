@@ -4,7 +4,7 @@
       "img": "img[class alt src width height loading='lazy']/",
       "button": "button[class type='button']",
       "video": "video[src poster width height]",
-      "input": "input[class type='text']/",
+      "input": "input[class name type='text']/",
       "label": "label[class for]",
       "a": "a[class href='#']"
     }
